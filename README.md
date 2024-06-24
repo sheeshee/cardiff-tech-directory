@@ -36,11 +36,11 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 # Other
 
-* Cardiff Hackspace
-* University of Cardiff
-* Fablab Cardiff
-* Barclays Eagle Lab Cardiff
-* Tramshed
+* [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
+* [Cardiff University](https://www.cardiff.ac.uk/)
+* [Fablab Cardiff](https://www.fablabcardiff.com/)
+* [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
+* [TramshednTech](https://www.tramshedtech.co.uk/)
 
 # Inactive
 
