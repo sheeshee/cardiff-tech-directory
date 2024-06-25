@@ -40,7 +40,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
-* [TramshednTech](https://www.tramshedtech.co.uk/)
+* [Tramshed Tech](https://www.tramshedtech.co.uk/)
 
 # Inactive
 
