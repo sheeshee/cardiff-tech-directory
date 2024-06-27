@@ -34,6 +34,10 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Wealthify](https://www.wealthify.com/)
 * [Yoello](https://www.yoello.com/)
 
+## Hardware
+
+* [SureChill](https://surechill.com/)
+
 # Other
 
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
