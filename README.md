@@ -10,16 +10,30 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 # Businesses
 
-## AI and Analytics
+## AI, Data and Analytics
 
 * [Amplyfi](https://amplyfi.com)
 * [Datalyse](https://datalyse.io/)
+* Esri
 
 ## Biotech and Health
 
 * [Antiverse](https://www.antiverse.io)
+* Cytiva
 * [Digital Health Labs](https://digitalhealthlabs.com/)
 * [Jellagen](https://jellagen.co.uk/)
+* TrakCel
+
+## Insurance
+
+* Admiral
+* Confused.com
+* Legal & General
+* ActiveQuote
+
+## Consulting
+
+* WSP
 
 ## Fintech
 
@@ -31,15 +45,19 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [MYPINPAD](https://www.mypinpad.com/)
 * [Sonovate](https://www.sonovate.com/)
 * [Starling Bank](https://www.starlingbank.com/)
+* Tendem Bank
 * [Wealthify](https://www.wealthify.com/)
 * [Yoello](https://www.yoello.com/)
 
 ## Hardware
 
 * [SureChill](https://surechill.com/)
+* GE Aerospace
 
 # Other
 
+* Ofcom
+* National Grid
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
