@@ -15,6 +15,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Amplyfi](https://amplyfi.com)
 * [Datalyse](https://datalyse.io/)
 * Esri
+* LexisNexis Risk Solutions
 
 ## Biotech and Health
 
