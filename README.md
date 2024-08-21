@@ -54,6 +54,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 * [SureChill](https://surechill.com/)
 * GE Aerospace
+* HID
 * Rolls-Royce Submarines
 
 # Other
