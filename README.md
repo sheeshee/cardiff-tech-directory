@@ -34,6 +34,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 ## Consulting
 
+* BJSS
 * WSP
 
 ## Fintech
