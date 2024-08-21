@@ -44,6 +44,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Delio](https://www.deliogroup.com/)
 * [Monzo](https://monzo.com/)
 * [MYPINPAD](https://www.mypinpad.com/)
+* Principality Building Society
 * [Sonovate](https://www.sonovate.com/)
 * [Starling Bank](https://www.starlingbank.com/)
 * Tendem Bank
