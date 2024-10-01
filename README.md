@@ -23,6 +23,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * Cytiva
 * [Digital Health Labs](https://digitalhealthlabs.com/)
 * [Jellagen](https://jellagen.co.uk/)
+* [medi2data](https://www.medi2data.com/)
 * TrakCel
 
 ## Insurance
