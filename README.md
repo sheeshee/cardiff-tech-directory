@@ -45,6 +45,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
+* [Veezu](https://www.veezu.co.uk/)
 
 # Inactive
 
