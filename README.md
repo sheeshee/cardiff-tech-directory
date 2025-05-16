@@ -16,6 +16,8 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Datalyse](https://datalyse.io/)
 * Esri
 * LexisNexis Risk Solutions
+* PureCyber
+* Virtu.Tech
 
 ## Biotech and Health
 
@@ -59,6 +61,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * GE Aerospace
 * HID
 * Rolls-Royce Submarines
+* SmallSpark
 
 # Other
 
