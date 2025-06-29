@@ -10,16 +10,35 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 # Businesses
 
-## AI and Analytics
+## AI, Data and Analytics
 
 * [Amplyfi](https://amplyfi.com)
 * [Datalyse](https://datalyse.io/)
+* Esri
+* LexisNexis Risk Solutions
+* PureCyber
+* Virtu.Tech
 
 ## Biotech and Health
 
 * [Antiverse](https://www.antiverse.io)
+* Cytiva
 * [Digital Health Labs](https://digitalhealthlabs.com/)
 * [Jellagen](https://jellagen.co.uk/)
+* [medi2data](https://www.medi2data.com/)
+* TrakCel
+
+## Insurance
+
+* Admiral
+* Confused.com
+* Legal & General
+* ActiveQuote
+
+## Consulting
+
+* BJSS
+* WSP
 
 ## Fintech
 
@@ -29,22 +48,32 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Delio](https://www.deliogroup.com/)
 * [Monzo](https://monzo.com/)
 * [MYPINPAD](https://www.mypinpad.com/)
+* Principality Building Society
 * [Sonovate](https://www.sonovate.com/)
 * [Starling Bank](https://www.starlingbank.com/)
+* Tendem Bank
 * [Wealthify](https://www.wealthify.com/)
 * [Yoello](https://www.yoello.com/)
 
 ## Hardware
 
 * [SureChill](https://surechill.com/)
+* GE Aerospace
+* HID
+* Rolls-Royce Submarines
+* SmallSpark
+* [Space Forge](https://www.spaceforge.com/)
 
 # Other
 
+* Ofcom
+* National Grid
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
+* Roku
 * [Veezu](https://www.veezu.co.uk/)
 
 # Inactive
