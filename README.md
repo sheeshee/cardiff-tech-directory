@@ -74,6 +74,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
 * Roku
+* [Veezu](https://www.veezu.co.uk/)
 
 # Inactive
 
