@@ -73,6 +73,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
+* Painting Practice
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
 * Roku
 * [S4C](https://www.s4c.cymru/en)
