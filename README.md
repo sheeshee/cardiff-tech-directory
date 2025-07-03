@@ -57,6 +57,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 ## Hardware
 
+* [Amentum](https://www.amentum.com/)
 * [SureChill](https://surechill.com/)
 * GE Aerospace
 * HID
