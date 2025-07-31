@@ -39,6 +39,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 * BJSS
 * WSP
+* PwC
 
 ## Fintech
 
