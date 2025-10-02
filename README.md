@@ -24,6 +24,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 * [Antiverse](https://www.antiverse.io)
 * Cytiva
+* [Digital Health and Care Wales](https://dhcw.nhs.wales/)
 * [Digital Health Labs](https://digitalhealthlabs.com/)
 * [Jellagen](https://jellagen.co.uk/)
 * [medi2data](https://www.medi2data.com/)
@@ -44,6 +45,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 ## Fintech
 
+* [Aldermore Bank](https://www.aldermore.co.uk/)
 * [ANNA Money](https://anna.money/)
 * [Backbase](https://www.backbase.com/)
 * [Burbank](https://www.burbankdev.co.uk/)
