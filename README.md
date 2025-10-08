@@ -86,6 +86,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * Roku
 * [S4C](https://www.s4c.cymru/en)
 * [Veezu](https://www.veezu.co.uk/)
+* [Tigerbay](https://tigerbay.co.uk/)
 
 # Inactive
 
