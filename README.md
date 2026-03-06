@@ -76,6 +76,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 * Ofcom
 * National Grid
+* [cardiff.dev Discord](https://cardiff.dev)
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
