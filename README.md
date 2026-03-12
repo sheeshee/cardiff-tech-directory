@@ -19,6 +19,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * LexisNexis Risk Solutions
 * PureCyber
 * Virtu.Tech
+* [Idwal](https://www.idwalmarine.com/en/)
 
 ## Biotech and Health
 
