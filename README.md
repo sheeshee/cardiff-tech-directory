@@ -80,6 +80,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [cardiff.dev Discord](https://cardiff.dev)
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
+* [Cyber Innovation Hub](https://cyberinnovationhub.wales)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Innovators Uncensored](https://www.innovatorsuncensored.com/)
