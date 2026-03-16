@@ -73,6 +73,16 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * SmallSpark
 * [Space Forge](https://www.spaceforge.com/)
 
+## Other
+
+* Ofcom
+* National Grid
+* [Roku](https://www.weareroku.com/locations/cardiff)
+* [S4C](https://www.s4c.cymru/en)
+* [Veezu](https://www.veezu.co.uk/)
+* [Tigerbay](https://tigerbay.co.uk/)
+* [Painting Practice](https://paintingpractice.com/)
+
 # Meetups, Networking and Community
 
 * [cardiff.dev Discord](https://cardiff.dev)
@@ -82,18 +92,11 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 # Other
 
-* Ofcom
-* National Grid
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Cyber Innovation Hub](https://cyberinnovationhub.wales)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
-* Painting Practice
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
-* [Roku](https://www.weareroku.com/locations/cardiff)
-* [S4C](https://www.s4c.cymru/en)
-* [Veezu](https://www.veezu.co.uk/)
-* [Tigerbay](https://tigerbay.co.uk/)
 
 # Inactive
 
