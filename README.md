@@ -73,20 +73,24 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * SmallSpark
 * [Space Forge](https://www.spaceforge.com/)
 
+# Meetups, Networking and Community
+
+* [cardiff.dev Discord](https://cardiff.dev)
+* [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
+* [Innovators Uncensored](https://www.innovatorsuncensored.com/)
+* [unified.diff Meetup](https://www.meetup.com/unified-diff/)
+
 # Other
 
 * Ofcom
 * National Grid
-* [cardiff.dev Discord](https://cardiff.dev)
-* [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Cyber Innovation Hub](https://cyberinnovationhub.wales)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
 * [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
-* [Innovators Uncensored](https://www.innovatorsuncensored.com/)
 * Painting Practice
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
-* Roku
+* [Roku](https://www.weareroku.com/locations/cardiff)
 * [S4C](https://www.s4c.cymru/en)
 * [Veezu](https://www.veezu.co.uk/)
 * [Tigerbay](https://tigerbay.co.uk/)
