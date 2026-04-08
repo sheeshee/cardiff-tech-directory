@@ -73,7 +73,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * SmallSpark
 * [Space Forge](https://www.spaceforge.com/)
 
-## Other
+## Other Business Categories
 
 * Ofcom
 * National Grid
@@ -87,16 +87,18 @@ A list of organisations, startups, established businesses, groups and spaces - e
 
 * [cardiff.dev Discord](https://cardiff.dev)
 * [Cardiff Hackspace](https://cardiffhackspace.co.uk/)
+* [Deathcon](https://www.deathcon.wales/)
 * [Innovators Uncensored](https://www.innovatorsuncensored.com/)
 * [unified.diff Meetup](https://www.meetup.com/unified-diff/)
 
 # Other
 
+* [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Cardiff University](https://www.cardiff.ac.uk/)
 * [Cyber Innovation Hub](https://cyberinnovationhub.wales)
 * [Fablab Cardiff](https://www.fablabcardiff.com/)
-* [Barclays Eagle Lab Cardiff](https://labs.uk.barclays/locations/cardiff/)
 * [Tramshed Tech](https://www.tramshedtech.co.uk/)
+
 
 # Inactive
 
