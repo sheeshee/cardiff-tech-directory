@@ -38,12 +38,13 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * Legal & General
 * ActiveQuote
 
-## Consulting
+## Consulting and Agencies
 
 * BJSS
 * WSP
 * PwC
 * [Box UK](https://www.boxuk.com/)
+* [Spindogs](https://www.spindogs.co.uk/)
 
 ## Fintech
 
