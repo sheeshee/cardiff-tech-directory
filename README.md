@@ -91,6 +91,7 @@ A list of organisations, startups, established businesses, groups and spaces - e
 * [Deathcon](https://www.deathcon.wales/)
 * [Innovators Uncensored](https://www.innovatorsuncensored.com/)
 * [unified.diff Meetup](https://www.meetup.com/unified-diff/)
+* [Laravel Wales](https://www.meetup.com/cardiff-technology-society-meetup-group/)
 
 # Other
 
